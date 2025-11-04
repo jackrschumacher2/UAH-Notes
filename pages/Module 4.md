@@ -1,1 +1,14 @@
 # Sundiata
+- ## Africa's as the Cradle of Civilization
+- Africas great drift valley
+	- Where the story of humanity likely begins
+- Evidence that the anatomically modern humans emerged in the continent of Africa.
+	- Belief that humans began walking on the earth much earlier than possible
+	- Likely to find more evidence as time goes on
+	- We are all likely descended from African American ancestors - common ancestors in Africa
+	- Around 80000-50000 years ago humans began to spread out through the rest of the world
+	- Caves in Africa show the first signs of Human artistic expression on the walls
+	- Face paintings sometimes used to communicate/identify
+- 10000 years human began to breed animals and eventually start going towards domestication
+- Eventually move to the area near the source of a Nile and become the ancestors of Humans
+-
