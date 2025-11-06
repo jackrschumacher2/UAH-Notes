@@ -1,6 +1,6 @@
 # ECN143: Principles of Microeconomics - Key Definitions
 - ### 📈 Foundational Economic Concepts
-- * **Law of Demand:** Consumers buy more of a good when its price is lower, holding other factors constant.
+- **Law of Demand:** Consumers buy more of a good when its price is lower, holding other factors constant.
   * **Substitutes:** Goods used in place of another.
   * **Complements:** Goods consumed together.
   * **Market Equilibrium:** Occurs where the quantity demanded equals the quantity supplied, establishing the equilibrium price and quantity.
@@ -16,7 +16,7 @@
   
   ---
 - ### 🏛️ Government Intervention and Trade
-- * **Price Ceiling:** A legally set maximum price for a good or service.
+- **Price Ceiling:** A legally set maximum price for a good or service.
   * **Price Floor:** A legally set minimum price for a good or service.
   * **Surplus Transfer:** Regulations that move surplus from one group to another.
   * **Autarky:** A state of no international trade.
@@ -26,7 +26,7 @@
   
   ---
 - ### 🧑‍💼 Consumer and Producer Behavior
-- * **Budget Constraint:** Defines what combinations of goods a consumer can afford given their income and the (fixed) prices of goods.
+- **Budget Constraint:** Defines what combinations of goods a consumer can afford given their income and the (fixed) prices of goods.
   * **Elasticity:** Measures how sensitive one variable is to changes in another.
   * **Price Elasticity of Demand (E_D):** Measures how much quantity demanded responds to a change in price.
     * **Elastic (Demand):** $E_D > 1$.
@@ -51,8 +51,8 @@
   
   ---
 - ### 🧩 Game Theory and Market Structures
-- * **Game Theory:** The study of strategic interactions.
-- * **Backward Induction:** The procedure of solving an extensive form game by considering the last mover's decision
+- **Game Theory:** The study of strategic interactions.
+- **Backward Induction:** The procedure of solving an extensive form game by considering the last mover's decision
 - **Simultaneous Move Game:** A game where players select their strategies at the same time without knowing the other's choice.
   * **Payoff Matrix:** Shows the payoffs (outcomes) for each player for each strategy.
   * **Dominant Strategy:** A player's best response, regardless of what the other player does.
@@ -60,7 +60,7 @@
   * **Nash Equilibrium:** A situation where each player chooses a strategy that is best for them, given the strategies chosen by the other players.
   * **Perfect Competition:** An industry structure with many firms, a homogeneous product, free entry and exit, and complete information.
   * **Price Taker:** A firm in a perfectly competitive market that has no influence over the market price.
-- * **Nodes:** The decision points in an extensive form games
+- **Nodes:** The decision points in an extensive form games
 - **The Tragedy of the Commons:** The overuse of shared resources that results in a negative externality
 - **Monopoly:** A market structure with one firm, a unique product, and high barriers to entry.
   * **Market Power:** The ability to set the price.
