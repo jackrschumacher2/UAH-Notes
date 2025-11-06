@@ -15,4 +15,8 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: www
-          version:nightly
+      - uses: logseq/publish-spa@main
+        with:
+          # graph-directory: my-logseq-notes
+          # output-directory: out
+          version: nightly
