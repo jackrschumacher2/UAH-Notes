@@ -101,11 +101,13 @@
 		- **Special files**
 		- **Links**
 		- **Domain sockets**
+			- Provide inter process networking protected by file system access control
 		- **Named pipes**
 - ### File System
 	- Hierarchical - tree structure
 	- Consistent
 	- Simple - Flexible file operations
+	- Directories are a special type of file that are lists of other programs
 	- Ordered tree-like structure on the hard disk
 		- ![image.png](../assets/image_1762739990846_0.png){:height 364, :width 347}
 		- ![image.png](../assets/image_1762740013329_0.png){:height 272, :width 346}
