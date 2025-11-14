@@ -1,8 +1,8 @@
 exclude-from-graph-view:: true
 
-- Bias name
-  template:: Bias
-	- Description
+- ## Bias name
+  template:: bias
+	- #### Description
 		-
-	- Example
-		- <!--EndFragment-->
+	- #### Key example
+		-
