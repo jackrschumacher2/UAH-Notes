@@ -1,3 +1,5 @@
+date:: 11/14/2025
+
 - Increasing threat of AI to scams/phising,etc
 	- Deepfakes
 	- Scripts
