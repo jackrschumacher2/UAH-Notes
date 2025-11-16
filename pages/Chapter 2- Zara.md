@@ -82,5 +82,53 @@
 	- Headquarters plays a role in directing in store operations
 	- Software used to schedule staff
 - ## Integrating E-commerce: Omnichannel = More Sales + Better Customer Experience
+	- Inditex was a relative latecomer to ecommerce
+		- Online sales have grown substantially by year end 2019
+		- Has boosted its ecommerce efforts recently
+		- Part of the firms **omnichannel** solution (the retail strategy)
+		- Sees the link between online and and offline sales
+			- Does not break out online sales as a separate entity
+	- 2/3 of online shopping returns are done in store- 1/3 of online orders scheduled for in store pickup
+		- Easy to asses the size in store
+		- Can look online if something is not in store
+	- 52 global ecommerce stockrooms globally
+		- "Click and collect" systems that do not use human workers to collect returns, instead using large touchscreens
+		- Encourage eco friendly recycling of packaging
+		- 2,400 orders can be handled at a single location
+	- Customers can also reserve fitting rooms at some stores
+		- Or assign a fitting room based on how many items they have to try on
+	- Self checkout systems
+	- Direct to consumer delivery in markets where there is not yet a store presence
+- ## COVID-19 Response: Tech-Centric Operations + E-commerce + Omnichannel in a Crisis
+	- Coronavirus caused a retail disaster
+	- 88% of stores closed in spring 2020 caused a 44% profit loss
+		- Damage not nearly as bad as rival stores due to the integrated system
+	- Strengthened ecommerce efforts
+		- 14% pre-pandemic increased 95% in that quarter
+		- Inventory shifted from closed stores to be used online
+			- Powered by RFID tech
+- # Moving Forward
+	- Next stage of growth for Inditex will actually involve fewer new store
+		- Planning around 1,200 global store closures of the firms weakest locations. Around 16% of globabl stores
+			- These stores account for 5% of sales
+	- Expects online sales to be the biggest drivers of revenue in the next several years
+		- Expects to spend over $1 billion euros on improving online store
+		- Expects to spend $1.7 billion euros keeping it running
+	- Could still encounter issues with supply chain, as Zara sends deliveries through 2 locations in Spain
+	- Also could encounter issues with the continued fluctuation of the value of the Euro
+		- Might possibly open up regional centers
+			- Such as in China
+				- Experts remain skeptical of Zara's ability to relocate half a world away
+	- Continues to plan expansion in the US
+	- Increasing environmental regulation, especially in the EU
+		- EU plans may be in place by 2028
+		- Has made some commitments to reduce environmental impact
+			- More innovative, less impactful materials
+				- Recycled materials
+			- Reducing energy usage
+	- Threat of direct to consumer reatailers
+		- Shein and Temu
+			- Technology is increasingly used to drive down costs
+		- Technology creates Zara's differentiator from the rest of the industry \rarr threat of others copying or improving upon it
 	-
 -

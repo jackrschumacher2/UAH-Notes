@@ -1,0 +1,34 @@
+# Introduction
+	- Internet is a business enabler
+	- Marketers who have an understanding of the internet and its impact on consumers
+	- Understanding how the internet works helps the manager to assess how their firms are vulnerable
+		- Keep their organization constantly connecting
+- # Internet 101: Understanding How the Internet Works
+	- The internet is a network of networks
+		- Your local network (intranet) connects to the Internet service provider to access the wider internet
+		- There is no center to the internet, no one owns it
+			- Therefore is extremely fault tolerant
+			- Arose from military and education institutions work as far back as the 1960s
+				- Took off in the 1990s when graphical browsing was invented
+				- Architecture was then transitioned to private firms rather than government grants
+		- ![Example network diagram showing the connection between local networks (intranet) and the larger internet](https://resized-images.flatworldknowledge.com/gallaugher_7-32630/1000/gallaugher_7-32630-fig127.png)
+	- ## The URL: “What Are You Looking For?”
+		- **URL (uniform resource locator)** - Used interchangeably with "Web Address", URLs are used to identify resources on the Internet along with the application protocol needed to retrieve it
+			- Basically used to tell your browser what you are looking for
+		- #+BEGIN_EXAMPLE
+		  The URL displayed really says, “Use the Web’s secure SSL protocol (https://) to find a host server named ‘www’ in the ‘nytimes.com’ network, look in the ‘tech’ directory, and access the ‘index.html’ file.”
+		  #+END_EXAMPLE
+		- ![A breakdown of a URL](https://resized-images.flatworldknowledge.com/information_systems_9_1-36477/1000/information_systems_9_1-36477-fig109.png)
+		- **Hypertext transfer protocol** - Application transfer protocol that allows web browsers and Web servers to communicate with each other
+			- Most sites now use https instead of http
+				- Shift occurred aggressively several years ago
+				- Warning shows up if not secure
+				- https is achieved by using **SSL- Secure Sockets Layer**
+					- SSL encrypts web transmissions so they can be securely sent between locations
+					- **Does not mean that the transmission is totally secure-only the transmission from end to end is safe**
+			- These protocols are designed to be independent from hardware
+		- Other network protocols
+			- **SMTP** - Simple mail transfer protocol
+			- **FTP** - File Transfer protcol
+	- ## Host and Domain names
+		-
