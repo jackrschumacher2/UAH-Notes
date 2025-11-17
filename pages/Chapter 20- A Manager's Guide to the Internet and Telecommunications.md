@@ -111,7 +111,7 @@
 				- Routers do not have a perfect set of information on all points of the internet, but talk to each other and know the general idea of where to send the packets
 				- This makes it fault tolerant
 		- Once packets are received by the local machine, TCP checks the validity of the packets and that all packets that have been requested have been received correctly
-		- ![TCP/IP example](https://resized-images.flatworldknowledge.com/gallaugher_7-32630/1000/gallaugher_7-32630-fig136.png){:height 449, :width 528}
+		- ![TCP/IP example](https://resized-images.flatworldknowledge.com/gallaugher_7-32630/1000/gallaugher_7-32630-fig136.png){:height 385, :width 528}
 		- **VOIP (Voice over Internet)** - Removes some of the need to have 2 separate networks - one for phone service and one for regular network
 	- ## What Connects the Routers and Computers?
 		- Local connections are most commonly done with traditional ethernet cables (copper)
@@ -143,6 +143,7 @@
 			- Only really works well in cities where high-value customers can be accessed over short distances
 			- Popular in Asia
 	- ## Fiber: A Light-Filled Glass Pipe to Your Doorstep
+		- Also known as FTTH
 		- Fastest last-mile technology
 		- Works over long distances
 		- Technology is not already in place
@@ -177,3 +178,6 @@
 		- Google believes that ISPs should not be entitled to control activity online
 		- ISPs could restrict content (ex: Comcast restricting content streamed)
 		- A continuing US policy discussion over the last several years
+- # To Infinity and Beyond: SpaceX Starlink and the Awesome Power Wielded by Elon Musk's Firms
+	- Many firms have failed at the promise of creating global broadband
+	-
