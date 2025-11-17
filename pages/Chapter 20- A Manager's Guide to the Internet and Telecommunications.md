@@ -180,4 +180,34 @@
 		- A continuing US policy discussion over the last several years
 - # To Infinity and Beyond: SpaceX Starlink and the Awesome Power Wielded by Elon Musk's Firms
 	- Many firms have failed at the promise of creating global broadband
-	-
+		- Iridium went bankrupt
+		- The One World consortium had to be bailed out by the British government and later acquired by French firm Eutelsat
+		- Musk is the only one who has delivered on his promise of global-spanning broadband
+	- Older satellite constellations orbited in GEO
+		- **GEO** - Geosynchronous Earth Orbit. GEO satellites orbit the Earth at a fixed position, roughly 22,000 miles (35,000 km) above the Earth—roughly the same distance as the Earth's circumference. This distance means fewer satellites can cover a larger geographic distance, but it also increases latency due to the time taken to send a signal from ground antennas to satellites and back.
+	- Starlink satellites orbit in LEO
+		- **LEO** - Low Earth Orbit. LEO satellites orbit the Earth at a range of less than 1,200 miles (2,000 km), and may be significantly less (Starlink satellites are about 340 miles or 550km up). A closer distance means more satellites are needed to cover a smaller geographic broadcast/receive footprint, and that satellites will regularly move in and out of range above a given point, so most LEO efforts deploy many more satellites than their GEO counterparts. The big advantage of LEO over GEO is speed—with latency being smaller, transmission speeds are much faster than GEO efforts.
+		- Starlink satellites orbit makes the signal transmission time take 1/60th of the time
+		- Starlink is so fast that it is considered to be an alternative for some ground based networks
+		- Starlink satellites are not in a fixed position, but rather pass signals to each each other using lasers
+			- Starlink satellites are about the size of a couch, unlike GEO satellites that are the size of school busses
+			- Starlink currently has approximately 9,000 satellites in orbit
+		- ![image.png](../assets/image_1763413217627_0.png){:height 330, :width 506}
+		- There is a lot of room between the satellites in orbit
+		- SpaceX taps into the US Governments Space Debris Collision Detection System
+		- Starlink satellites have enough propulsion to move itself out of orbit when it has exceed it useful life
+			- Satellite typically last around 3.5 years before they are deorbited
+			- Solar events can lead to early reentry
+		- Worry about a collision that may lead to a cascading catastrophe
+			- **Kessler effect** - A feared cascading effect when colliding space debris hits existing objects, creating additional debris and additional collisions.
+		- 42 million people in the rural United States that lack access to high-speed broadband
+		- 3 billion people are not online yet in the world
+		- Starlink is not cheap - $600 for equipment, $99/month of unlimited
+			- Much of SpaceX's evaluation is driven by the future success of Starlink
+		- T-Mobile and Starlink to cover gaps in the networks
+		- Already used widely throughout the world, especially in areas torn apart by war, or by natural disasters
+			- Ukraine war - 42,000 terminals
+			- Has used geofencing to prevent Starlink use outside of the current theater of conflict
+				- **Geofencing** - A geofence is a virtual perimeter around a physical location. Geofencing is often used to send alerts when a device is detected within or outside an area of intended operation.
+		- Concern about "overcrowding" in space
+			- Especially from China and countries where free speech is suppressed and the deployment of Starlink in their countries might allow for unrestricted speech
