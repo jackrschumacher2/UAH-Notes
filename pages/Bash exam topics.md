@@ -1,0 +1,25 @@
+- Input/Output Redirection
+	- Changing standard input and standard output
+		- Handling standard error
+- Linux File Systems
+	- Listing and changing file permissions
+	  background-color:: yellow
+		- chmod, etc
+		  background-color:: yellow
+		- Working with directories
+			- Copying directories, compressing directories, moving directories
+- Pattern Matching
+	- Different options for searching and manipulating strings
+	- Searching files
+		- find the command
+		- grep command
+- Vulnerability Scanning
+	- Different types of logs and its usage
+		- Format of syslog
+		- Priorities of the different log files
+- Programming exercises
+	- Some possible examples:
+		- Using files to perform IO redirection
+		- Using commands for security auditing - checking the status of the system
+		- System hardening - make changes to enhance system security
+	-
