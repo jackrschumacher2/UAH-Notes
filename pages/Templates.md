@@ -6,3 +6,7 @@ exclude-from-graph-view:: true
 		-
 	- #### Key example
 		-
+- ### Transaction type
+  template:: Typical Transaction
+	- **Debit:**
+	- **Credit:**

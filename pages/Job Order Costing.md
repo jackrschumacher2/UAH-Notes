@@ -27,6 +27,8 @@
 		- ![image.png](../assets/image_1762794022037_0.png)
 - ### Using Materials
 	- A materials requisition requests to transfer materials to the production floor
+		- **Debit- Work in Process inventory or Manufacturing Overhead**
+		- **Credit- Raw Materials inventory**
 	- ![image.png](../assets/image_1762794067100_0.png){:height 332, :width 544}
 	- When materials are received on the production floor, direct materials are recorded on the job cost record
 	- ![image.png](../assets/image_1762794129638_0.png){:height 368, :width 522}
@@ -39,6 +41,8 @@
 - # How do overhead costs flow through the Job Order Costing system?
 	- Actual Overhead Costs Incurred- In addition to indirect materials and indirect labor, other overhead costs are incurred
 		- Depreciation on manufacturing plant and equipment of $20,000
+			- **Debit-Depreciation expense**
+			- **Credit-Accumulated Depreciation**
 		- Plant utilities $7,000
 		- Plant insurance of $6,000
 		- Plant property taxes incurred by not yet paid of $5,000
@@ -93,6 +97,6 @@
 	- ![image.png](../assets/image_1762800739810_0.png){:height 367, :width 520}
 	- ![image.png](../assets/image_1762800752181_0.png){:height 440, :width 546}
 	-
-	-
+-
 	-
 	-
