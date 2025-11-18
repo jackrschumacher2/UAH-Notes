@@ -18,6 +18,14 @@
 		- Format of syslog
 		- Priorities of the different log files
 - Programming exercises
+	- Programming challenge 9 is very important for this
+	  background-color:: yellow
+		- Make changes to enhance system security
+			- What commands/operations can enhance security
+				- File permissions
+				- Firewalls
+				- Enabling/removing system services
+				- Updating services
 	- Some possible examples:
 		- Using files to perform IO redirection
 		- Using commands for security auditing - checking the status of the system
