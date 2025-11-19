@@ -3,4 +3,5 @@
 - [[Week 12-Pattern Matching & Vulnerability Scanning]]
 - [[Week 13: Security and Advanced Bash Operations]]
 - [[Bash exam topics]]
+- [[Bash final project]]
 -

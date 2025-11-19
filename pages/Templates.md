@@ -10,3 +10,10 @@ exclude-from-graph-view:: true
   template:: Typical Transaction
 	- **Debit:**
 	- **Credit:**
+- template:: Journal entry table
+  |Date|Accounts|Debit|Credit|
+  |--|--|--|--|
+  |||||
+  |||||
+-
+-
